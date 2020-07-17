@@ -14,3 +14,7 @@ body {
   background: white;
 }
 
+.navbar-icon {
+  font-size: 2rem;
+  color: red;
+}
