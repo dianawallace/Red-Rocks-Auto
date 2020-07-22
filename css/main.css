@@ -28,3 +28,7 @@ body {
   color: red;
   text-transform: capitalize;
 }
+
+.nav-link:hover {
+  color: darkred;
+}
