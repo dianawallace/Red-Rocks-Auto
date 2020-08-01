@@ -21,7 +21,7 @@ body {
 }
 
 .navbar-toggler {
-  outline-color: red !important;
+  outline-color: red!important;
 }
 
 .nav-link {
@@ -39,15 +39,19 @@ body {
   text-decoration: none;
 }
 
-.nav-icon:hover {
+.nav-link:hover {
   color: darkred;
 }
 
 .nav-icon {
   font-size: 1.5rem;
   color: rgb(226, 43, 43);
-  text-decoration: none;
+  text-decoration: none!important;
   transition-property: color;
   transition-duration: 2s;
+  transition-timing-function: linear;
+}
 
+.nav-icon:hover {
+  color: darkred;
 }
