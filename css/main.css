@@ -42,3 +42,12 @@ body {
 .nav-icon:hover {
   color: darkred;
 }
+
+.nav-icon {
+  font-size: 1.5rem;
+  color: rgb(226, 43, 43);
+  text-decoration: none;
+  transition-property: color;
+  transition-duration: 2s;
+
+}
