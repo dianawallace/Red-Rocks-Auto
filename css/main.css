@@ -61,3 +61,12 @@ body {
   color: white;
 }
 
+.height-max {
+  min-height: calc(100vh - 76px);
+  background:url('/img/header-bkg.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
