@@ -70,3 +70,8 @@ body {
   background-repeat: no-repeat;
 }
 
+.title-heading {
+  background: rgba(0,0,0,0.4);
+  border-left: 0.3 solid red;
+  
+}
