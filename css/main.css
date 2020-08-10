@@ -85,3 +85,8 @@ body {
     font-size: 3rem;
   }
 }
+
+.title-icon {
+  color: white;
+  text-decoration: none!important;
+}
