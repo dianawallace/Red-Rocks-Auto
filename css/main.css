@@ -90,3 +90,8 @@ body {
   color: white;
   text-decoration: none!important;
 }
+
+.title-icon:hover {
+  color: white;
+  opacity: 0.6;
+}
