@@ -12,9 +12,10 @@ body {
 
 /* section title */
 .section-title--special {
-  background: Red; opacity:0.20;
+  background: Red; opacity:0.50;
   color: white;
   padding: 0.5rem 2rem;
+  clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%);
 }
 
 /* navbar */
