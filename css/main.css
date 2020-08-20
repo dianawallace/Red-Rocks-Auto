@@ -125,4 +125,10 @@ body {
   color: red;  
 }
 
+.skills-icon:hover {
+  color: darkred;
+}
+
+
+
 
