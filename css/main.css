@@ -18,7 +18,7 @@ body {
   clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%);
 }
 
-/* preloader */
+/* preloader 
 .preloader {
   position: fixed;
   top: 0;
@@ -27,7 +27,7 @@ body {
   right: 0;
   background: white;
   z-index: 999;
-}
+} */
 
 /* navbar */
 .navbar {
